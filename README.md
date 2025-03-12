@@ -4,5 +4,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guihocosta&show_icons=true&theme=dracula)
 
-📧 Email: guiihocosta@gmail.com 
-🔗 [LinkedIn]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/guilherme-costa-6ab4a4214/))  
+📧 Email: guiihocosta@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-costa-6ab4a4214/)  

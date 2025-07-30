@@ -1,5 +1,5 @@
 # Olá, eu sou Guilherme! 👋
-💻 Desenvolvedor Backend | Estudante de **ASP.NET Core**  
+💻 Desenvolvedor Backend ~ LEDS | Estudante de **.NET**  
 🎓 Estudante de **Sistemas de Informação**  
 
 - 📧 Email: guiihocosta@gmail.com
